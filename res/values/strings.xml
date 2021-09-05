@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KidMusic</string>
+    <string name="action_about">About</string>
+    <string name="toast_about">Музыка для самых маленьких</string>
+</resources>
