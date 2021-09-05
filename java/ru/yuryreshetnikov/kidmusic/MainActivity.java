@@ -1,4 +1,4 @@
-package ru.yuryreshetnikov.caller;
+package ru.yuryreshetnikov.kidmusic;
 
 import android.preference.PreferenceActivity;
 import android.view.Menu;

@@ -3,8 +3,8 @@
 t=/usr/lib/android-sdk/build-tools/debian
 aj=/usr/lib/android-sdk/platforms/android-24/android.jar
 rj=/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
-src=ru/yuryreshetnikov/caller
-n=Caller
+src=ru/yuryreshetnikov/kidmusic
+n=KidMusic
 
 rm -Rf build
 mkdir -pv build/gen build/apk
